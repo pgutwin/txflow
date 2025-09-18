@@ -17,7 +17,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [n/a] 18 September 2025
 
 ### Added
-- Initial version 
+- Initial version
+  - Added TODO list
 
 
 
